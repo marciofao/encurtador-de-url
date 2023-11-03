@@ -1,5 +1,5 @@
 # Encurtador de URL 🔗
-Esboço de Sistema feito Utilizando Wordpress e Docker.
+Esboço de Sistema encurtador de URLs Utilizando Wordpress e Docker.
 
 Este repositório contem um plugin que registra um template de página para funcionar como página do encurtador.
 Links encurtados são gerados e podem ser administrados pela tela admin do wordpress.
