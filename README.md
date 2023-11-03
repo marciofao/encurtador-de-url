@@ -17,6 +17,7 @@ Para rodar é necessário **Docker** instalado na máquina
 
 ## Subir sistema
 ``` docker-compose up```
+isto gera uma instancia wordpress disponível em 127.0.0.1:80
 
 depois disso estará disponível os comandos 
 ``` docker-compose start```
