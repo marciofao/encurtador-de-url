@@ -5,14 +5,16 @@ Este repositório contem um plugin que registra um template de página para func
 Links encurtados são gerados e podem ser administrados pela tela admin do wordpress.
 ## Requisitos 📝
 Para rodar é necessário **Docker** instalado na máquina
-Requer também os plugins ACF e CPT-UI instalados na instancia wordpress.
 
 ## Subir sistema
 ``` docker-compose up```
 
-depois disso estará disponível 
+depois disso estará disponível os comandos 
 ``` docker-compose start```
-``` docker-compose stop```
+e
+``` docker-compose stop ```
+
+Apos a instancia estar rodando, os plugins ***ACF*** e ***CPT-UI*** necessitam estar ativos na instancia wordpress.
 
 
 ### Materiais úteis 
